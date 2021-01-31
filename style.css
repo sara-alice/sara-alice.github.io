@@ -1,0 +1,58 @@
+body {
+    font-family: "American Typewriter", "Toppan Bunkyu Gothic";
+    font-weight: lighter;
+    margin: 0px;
+}
+
+.header {
+    background-color: #C5B4A2;
+    color: #DCF1F2;
+    height: 140px;
+    margin-bottom: 0px;
+}
+
+.header-logo {
+    font-size: 40px;
+    float: left;
+    padding: 10px 50px;
+}
+
+.header-list {
+    list-style: none;
+    float: right;
+    margin-right: 20px;
+}
+
+.header-list li {
+    float: right;
+    margin: 30px;
+    font-size: 25px;
+    color: #DCF1F2;
+}
+
+.header-list a {
+    color: #DCF1F2;
+}
+
+.main {
+    height: 2000px;
+    background-color: #D2F0FF;
+    color: #7F756A;
+    padding: 50px;
+    margin-top: -50px;
+}
+
+.copy {
+    text-align: center;
+    background-image: url(IMG_1635.jpeg);
+    background-size: cover;
+    background-color:rgba(255,255,255,0.7);
+    background-blend-mode:lighten;
+    margin-top: -50px;
+}
+
+.copy h1 {
+    padding: 200px;
+    font-size: 70px;
+    color:#7F756A;
+}
